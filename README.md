@@ -36,7 +36,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
   * Define the rules you need for your ontology
 * In Unity, create a new GameObject
 * In Unity, add the script Assets/OntologyModule/OntologyWebservice.cs to a GameObject
-* Check output from the reasoner in the Unity Console
+* Run the game and check the output from the reasoner in the Unity Console
 
 ### Using and adapting the code
 
