@@ -68,17 +68,7 @@ url = {https://git.io/JMpzr},
 version = {1.0},
 year = {2021}
 }
-
 ```
-
-@software{Brannstrom_Ontology_Unity_Package_2021,
-author = {Brännström, Andreas},
-month = {12},
-title = {{Ontology Unity Package}},
-url = {https://git.io/JMpzr},
-version = {1.0},
-year = {2021}
-}
 
 ### Author
 
