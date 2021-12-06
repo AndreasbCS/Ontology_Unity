@@ -38,7 +38,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 * In Unity, add the script Assets/OntologyModule/OntologyWebservice.cs to a GameObject
 * Check output from the reasoner in the Unity Console
 
-### Using and adpating the code
+### Using and adapting the code
 
 * In the script Assets/OntologyModule/OntologyWebservice.cs
   * Parse the text response from the ontology reasoner
