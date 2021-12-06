@@ -18,7 +18,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 
 * Install Unity
 * Create a new Unity 2D/3D project
-* Import Ontology_Unity_Package.unitypackage
+* Import [Ontology_Unity_Package.unitypackage](https://github.com/AndreasbCS/Ontology_Unity/blob/ca977a2375bea8f6abdae6b1d9b277b3c541d0d5/Ontology_Unity_Package.unitypackage)
 
 ### Getting started with the Ontology Unity Package
 
