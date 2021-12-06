@@ -55,6 +55,30 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 
 Let us know if you have any issues.
 
+# Cite as
+```
+Brännström, A. (2021). Ontology Unity Package (Version 1.0) [Computer software]. https://git.io/JMpzr
+
+@software{Brannstrom_Ontology_Unity_Package_2021,
+author = {Brännström, Andreas},
+month = {12},
+title = {{Ontology Unity Package}},
+url = {https://git.io/JMpzr},
+version = {1.0},
+year = {2021}
+}
+
+```
+
+@software{Brannstrom_Ontology_Unity_Package_2021,
+author = {Brännström, Andreas},
+month = {12},
+title = {{Ontology Unity Package}},
+url = {https://git.io/JMpzr},
+version = {1.0},
+year = {2021}
+}
+
 ### Author
 
 * Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
