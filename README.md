@@ -6,7 +6,7 @@ Integration of an Ontology reasoner in Unity.
 Unity Game Engine: https://unity3d.com/get-unity/download
 
 * Install Unity
-* Create a new Unity 3D project
+* Create a new Unity 2D/3D project
 * Import Ontology_Unity_Package.unitypackage
 
 ### Authors
