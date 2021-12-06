@@ -55,7 +55,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 
 Let us know if you have any issues.
 
-### Authors of the Ontology Unity Package
+### Authors
 
 * Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
 
