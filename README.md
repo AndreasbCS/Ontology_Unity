@@ -12,7 +12,7 @@
 * Creators of BaseVISor: VIStology, Inc.
 * More info: https://www.vistology.com/products/
 
-### Prerequisites of Ontology Unity Package
+### Prerequisites of the Ontology Unity Package
 
 Unity Game Engine: https://unity3d.com/get-unity/download
 
@@ -20,7 +20,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 * Create a new Unity 2D/3D project
 * Import Ontology_Unity_Package.unitypackage
 
-### Getting started with Ontology Unity Package
+### Getting started with the Ontology Unity Package
 
 * Copy your .owl file to folder Assets/OntologyModule/encodings/
 * In file Assets/OntologyModule/encodings/main.bvr, do the following: 
@@ -42,7 +42,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
   * Define an approrpiate data structure for the response
   * Do application specific operations
 
-### Authors of Ontology Unity Package
+### Authors of the Ontology Unity Package
 
 * Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
 
