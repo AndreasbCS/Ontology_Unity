@@ -1,9 +1,9 @@
 # Ontology Unity Package
-Integration of an Ontology reasoner in Unity through a web API. 
-This Unity package comes with a set of helper functions in C# to do operations with ontologies in Unity.
-This allows Unity-ontology projects to be deployed on any device that has internet access.
+* Integration of an Ontology reasoner in Unity through a web API. 
+* The Ontology Unity Package comes with a set of helper functions in C# to do operations with ontologies in Unity.
+* This allows Unity-ontology projects to be deployed on any device that has internet access.
 
-### The integrated Ontology reasoner
+### The integrated Ontology reasoner (not required to install)
 
 * Ontology reasoner: BaseVISor
 * BaseVISor 2.0.2 is licensed for academic and research use free of charge; all other uses require a commercial license.
