@@ -37,16 +37,19 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 * In Unity, create a new GameObject
 * In Unity, add the script Assets/OntologyModule/OntologyWebservice.cs to a GameObject
 * Check output from the reasoner in the Unity Console
+
+### Using and adpating the code
+
 * In the script Assets/OntologyModule/OntologyWebservice.cs
   * Parse the text response from the ontology reasoner
   * Define an approrpiate data structure for the response
   * Do application specific operations
     * Function: public void UpdateBVRFile(string input)
-      * To make procedural changes to main.bvr, such as adding new rules at runtime
+      * The function makes procedural changes to main.bvr, such as adding new rules at runtime
       * Any procedural changes are put in the <!-- dynamic content start --><!-- dynamic content end --> section at the end of main.bvr
       * The input string is in RFD format (see example rules in main.bvr)
     * Function: public void UpdateOntologyFile(string input)
-      * To make procedural changes to ontology.owl, such as adding new facts at runtime
+      * The function makes procedural changes to ontology.owl, such as adding new facts at runtime
       * Any procedural changes are put in the <!-- dynamic content start --><!-- dynamic content end --> section at the end of ontology.owl
       * The input string is in RFD format (see example facts in ontology.owl)
 
