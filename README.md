@@ -1,7 +1,18 @@
-# Ontology_Unity
-Integration of an Ontology reasoner in Unity.
+# Ontology Unity Package
+Integration of an Ontology reasoner in Unity through a web API. 
+This Unity package comes with a set of helper functions in C# to do operations with ontologies in Unity.
+This allows Unity-ontology projects to be deployed on any device that has internet access.
 
-### Prerequisites
+### The integrated Ontology reasoner
+
+* Ontology reasoner: BaseVISor
+* BaseVISor 2.0.2 is licensed for academic and research use free of charge; all other uses require a commercial license.
+* Supported syntaxes: RDF/XML, OWL/XML, All OWL API
+* Supported reasoning services: realisation, classification, satisfiability, conjunctive query answering, entailment, consistency.
+* Creators of BaseVISor: VIStology, Inc.
+* More info: https://www.vistology.com/products/
+
+### Prerequisites of Ontology Unity Package
 
 Unity Game Engine: https://unity3d.com/get-unity/download
 
@@ -9,7 +20,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 * Create a new Unity 2D/3D project
 * Import Ontology_Unity_Package.unitypackage
 
-### Getting started
+### Getting started with Ontology Unity Package
 
 * Copy your .owl file to folder Assets/OntologyModule/encodings/
 * In file Assets/OntologyModule/encodings/main.bvr, do the following: 
@@ -31,7 +42,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
   * Define an approrpiate data structure for the response
   * Do application specific operations
 
-### Authors
+### Authors of Ontology Unity Package
 
 * Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
 
