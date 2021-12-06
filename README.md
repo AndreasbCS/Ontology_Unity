@@ -26,7 +26,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 * In file Assets/OntologyModule/encodings/main.bvr, do the following: 
   * Make sure that relativePath="ontology.owl" is your ontology name. 
 * In file Assets/OntologyModule/OntologyWebservice.cs, do the following:
-  * Change 'project_key' to your project key
+  * Change 'project_key' to your project key, or use the key 'test'
   * Change 'ontology_file_name' to your owl file name, or rename your owl file to 'ontology.owl'
 
 ### Start your project
