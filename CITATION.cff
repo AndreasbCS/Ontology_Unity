@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Brännström
+    given-names: Andreas
+    orcid: https://orcid.org/0000-0001-9379-4281
+title: "Ontology Unity Package"
+version: 1.0
+url: https://git.io/JMpzr
+date-released: 2021-12-06
