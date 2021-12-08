@@ -7,7 +7,7 @@
 ### The integrated Ontology reasoner (not required to install)
 
 * Ontology reasoner: BaseVISor
-* BaseVISor 2.0.2 is licensed for academic and research use free of charge; all other uses require a commercial license.
+* BaseVISor 2.0.2 is licensed for academic and research use free of charge; all other uses require a commercial license at VIStology, Inc.
 * Supported syntaxes: RDF/XML, OWL/XML, All OWL API
 * Supported reasoning services: realisation, classification, satisfiability, conjunctive query answering, entailment, consistency.
 * Creators of BaseVISor: VIStology, Inc.
