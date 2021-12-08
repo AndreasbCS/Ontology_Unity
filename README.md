@@ -2,6 +2,7 @@
 * Integration of an Ontology reasoner in Unity through a web API. 
 * The Ontology Unity Package comes with a set of helper functions in C# to do operations with ontologies in Unity.
 * This allows Unity-ontology projects to be deployed on any device that has internet access.
+* Ontology Unity Package is licensed for academic and research use only (See [license](https://github.com/AndreasbCS/Ontology_Unity/blob/9a950b2f4b3d6eb653e0aaf54441571e8ebd126d/LICENSE)).
 
 ### The integrated Ontology reasoner (not required to install)
 
