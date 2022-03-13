@@ -1,4 +1,11 @@
-# Ontology Unity Package
+# UnityIIS 
+UnityIIS is a package for Unity Game Engine for implementing intelligent interactive systems (IIS). In particular, systems that integrates symbolic knowledge bases for reasoning, planning and rational decision-making in interactions with humans.
+
+The UnityIIS framework is divided into modules to integrate varying agent-modelling and knowledge representation tools. The main modules are 1) the `OWL Unity Package' to enable ontology reasoning, and 2) the `ASP Unity Package' to enable ASP-based action reasoning and planning.
+
+* Download [UnityIIS](https://github.com/AndreasbCS/Ontology_Unity/blob/a42c57959745da775012adaf584045624af9d38d/UnityIIS.unitypackage)
+
+## Ontology Unity Package
 * Integration of an Ontology reasoner in Unity through a web API. 
 * The Ontology Unity Package comes with a set of helper functions in C# to do operations with ontologies in Unity.
 * This allows Unity-ontology projects to be deployed on any device that has internet access.
@@ -54,7 +61,12 @@ Unity Game Engine: https://unity3d.com/get-unity/download
       * Any procedural changes are put in the <!-- dynamic content start --><!-- dynamic content end --> section at the end of ontology.owl
       * The input string is in RFD format (see example facts in ontology.owl)
 
-Let us know if you have any issues.
+## Answer Set Programming Unity Package
+
+The `ASP~Unity~Package' integrates an Answer Set Programming (ASP) solver and grounder, Clingo, to the Unity platform through a Web API. 
+ASP defines a problem in terms of a logic program to enable its logical models (answer sets) to represent the solutions of the original problem. ASP is a declarative programming language to solve difficult, typically NP-hard, search problems, and is particularly useful in for non-monotonic reasoning, knowledge representation, planning, and different action reasoning formalisms. 
+
+UnityIIS comes with a set of helper functions to do operations (e.g., updating, querying, converting to ASP facts) on ASP programs.
 
 ### Cite as
 ```
