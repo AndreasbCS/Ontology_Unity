@@ -70,11 +70,11 @@ UnityIIS comes with a set of helper functions to do operations (e.g., updating, 
 
 ### Cite as
 ```
-Brännström, A. (2021). UnityIIS: Interactive Intelligent Systems in Unity (Version 1.0) [Computer software]. https://git.io/JMpzr
+Brännström, A., & Nieves, J. C. (2021). UnityIIS: Interactive Intelligent Systems in Unity (Version 1.0) [Computer software]. https://git.io/JMpzr
 ```
 ```
-@software{Brannstrom_UnityIIS_2021,
-author = {Brännström, Andreas},
+@software{Brannstrom_UnityIIS_Interactive_Intelligent_2021,
+author = {Brännström, Andreas and Nieves, Juan Carlos},
 month = {12},
 title = {{UnityIIS: Interactive Intelligent Systems in Unity}},
 url = {https://git.io/JMpzr},
