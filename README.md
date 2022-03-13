@@ -73,7 +73,7 @@ UnityIIS comes with a set of helper functions to do operations (e.g., updating, 
 Brännström, A. (2021). UnityIIS Framework for Developing Interactive Intelligent Systems in Unity (Version 1.0) [Computer software]. https://git.io/JMpzr
 ```
 ```
-@software{Brannstrom_Ontology_Unity_Package_2021,
+@software{Brannstrom_UnityIIS_2021,
 author = {Brännström, Andreas},
 month = {12},
 title = {{UnityIIS Framework for Developing Interactive Intelligent Systems in Unity}},
