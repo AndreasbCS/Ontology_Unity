@@ -11,7 +11,7 @@ The UnityIIS framework is divided into modules to integrate varying agent-modell
 * This allows Unity-ontology projects to be deployed on any device that has internet access.
 * Ontology Unity Package is licensed for academic and research use only (See [license](https://github.com/AndreasbCS/Ontology_Unity/blob/9a950b2f4b3d6eb653e0aaf54441571e8ebd126d/LICENSE)).
 
-### The integrated Ontology reasoner (not required to install)
+### The integrated Ontology reasoner
 
 * Ontology reasoner: BaseVISor
 * BaseVISor 2.0.2 is licensed for academic and research use free of charge; all other uses require a commercial license at VIStology, Inc.
