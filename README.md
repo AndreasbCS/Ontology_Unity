@@ -7,6 +7,8 @@ The UnityIIS framework is divided into modules to integrate varying agent-modell
 
 Unity Game Engine: https://unity3d.com/get-unity/download
 
+### Installation
+
 * Install Unity
 * Create a new Unity 2D/3D project
 * Import [UnityIIS](https://github.com/AndreasbCS/Ontology_Unity/blob/a42c57959745da775012adaf584045624af9d38d/UnityIIS.unitypackage)
