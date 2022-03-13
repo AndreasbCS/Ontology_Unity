@@ -66,7 +66,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 The `ASP~Unity~Package' integrates an Answer Set Programming (ASP) solver and grounder, Clingo, to the Unity platform through a Web API. 
 ASP defines a problem in terms of a logic program to enable its logical models (answer sets) to represent the solutions of the original problem. ASP is a declarative programming language to solve difficult, typically NP-hard, search problems, and is particularly useful in for non-monotonic reasoning, knowledge representation, planning, and different action reasoning formalisms. 
 
-UnityIIS comes with a set of helper functions to do operations (e.g., updating, querying, converting to ASP facts) on ASP programs.
+UnityIIS comes with a set of helper functions to do operations (e.g., updating, querying) on ASP programs.
 
 ### Cite as
 ```
