@@ -4,7 +4,10 @@ authors:
   - family-names: Brännström
     given-names: Andreas
     orcid: https://orcid.org/0000-0001-9379-4281
-title: "Ontology Unity Package"
+  - family-names: Nieves
+    given-names: Juan Carlos
+    orcid: https://orcid.org/0000-0003-4072-8795    
+title: "UnityIIS: Interactive Intelligent Systems in Unity"
 version: 1.0
 url: https://git.io/JMpzr
 date-released: 2021-12-06
