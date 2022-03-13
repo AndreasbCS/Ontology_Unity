@@ -3,7 +3,13 @@ UnityIIS (Unity Intelligent Interactive Systems) is a package for the Unity Game
 
 The UnityIIS framework is divided into modules to integrate varying agent-modelling and knowledge representation tools. The main modules are 1) the `OWL Unity Package` to enable ontology reasoning, and 2) the `ASP Unity Package` to enable ASP-based action reasoning and planning.
 
-* Download [UnityIIS](https://github.com/AndreasbCS/Ontology_Unity/blob/a42c57959745da775012adaf584045624af9d38d/UnityIIS.unitypackage)
+### Prerequisites
+
+Unity Game Engine: https://unity3d.com/get-unity/download
+
+* Install Unity
+* Create a new Unity 2D/3D project
+* Import [UnityIIS](https://github.com/AndreasbCS/Ontology_Unity/blob/a42c57959745da775012adaf584045624af9d38d/UnityIIS.unitypackage)
 
 ## Ontology Unity Package
 * Integration of an Ontology reasoner in Unity through a web API. 
@@ -19,14 +25,6 @@ The UnityIIS framework is divided into modules to integrate varying agent-modell
 * Supported reasoning services: realisation, classification, satisfiability, conjunctive query answering, entailment, consistency.
 * Creators of BaseVISor: VIStology, Inc.
 * More info: https://www.vistology.com/products/
-
-### Prerequisites of the Ontology Unity Package
-
-Unity Game Engine: https://unity3d.com/get-unity/download
-
-* Install Unity
-* Create a new Unity 2D/3D project
-* Import [Ontology_Unity_Package.unitypackage](https://github.com/AndreasbCS/Ontology_Unity/blob/ca977a2375bea8f6abdae6b1d9b277b3c541d0d5/Ontology_Unity_Package.unitypackage)
 
 ### Getting started with the Ontology Unity Package
 
