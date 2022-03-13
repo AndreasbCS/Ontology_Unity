@@ -1,5 +1,5 @@
-# UnityIIS (Unity Intelligent Interactive Systems) Framework
-UnityIIS is a package for the Unity Game Engine for implementing intelligent interactive systems (IIS). In particular, systems that integrates symbolic knowledge bases for reasoning, planning and rational decision-making in interactions with humans.
+# UnityIIS - Symbolic Reasoning in Unity
+UnityIIS (Unity Intelligent Interactive Systems) is a package for the Unity Game Engine for implementing intelligent interactive systems (IIS). In particular, systems that integrates symbolic knowledge bases for reasoning, planning and rational decision-making in interactions with humans.
 
 The UnityIIS framework is divided into modules to integrate varying agent-modelling and knowledge representation tools. The main modules are 1) the `OWL Unity Package' to enable ontology reasoning, and 2) the `ASP Unity Package' to enable ASP-based action reasoning and planning.
 
