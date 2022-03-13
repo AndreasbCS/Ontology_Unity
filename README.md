@@ -86,6 +86,7 @@ year = {2021}
 ### Author
 
 * Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
+* Juan Carlos Nieves<sup>1</sup> {jcnieves@cs.umu.se} [Homepage](https://www.umu.se/en/staff/juan-carlos-nieves/)
 
 Department of Computing Science  
 Umeå university  
